@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b3e4239ab769c3449f96ad9d1e9b28b, type: 3}
+  m_Name: STAGE_3
+  m_EditorClassIdentifier: 
+  CurrentImage: {fileID: 21300000, guid: 0609788aad161b34caa0cd48073809ee, type: 3}
+  DiamondsRequired: 25
+  Levels:
+  - {fileID: 11400000, guid: 3b79c38873d7f8f4db1c1800c65a0194, type: 2}
+  - {fileID: 11400000, guid: 9ae08bcfb92ef25499e508e67d06ffd5, type: 2}
+  - {fileID: 11400000, guid: fbb685796229f224ba8eb4f61496a66f, type: 2}
+  - {fileID: 11400000, guid: 117cf032e0a48014289c66bfc6b15e73, type: 2}
+  - {fileID: 11400000, guid: 6f9bc113bfb6ffd409f72d500b398e34, type: 2}
+  - {fileID: 11400000, guid: f4d66bde7080150409beb2c7f51f5a7d, type: 2}
+  - {fileID: 11400000, guid: 08178b4aeb5834c46b451cd953565067, type: 2}
+  - {fileID: 11400000, guid: 426fddefcfcf29e4cad74f3831619680, type: 2}
